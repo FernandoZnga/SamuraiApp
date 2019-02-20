@@ -124,9 +124,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\20190220185018_init.cs" />
-    <Compile Include="Migrations\20190220185018_init.designer.cs">
-      <DependentUpon>20190220185018_init.cs</DependentUpon>
+    <Compile Include="Migrations\20190220215436_init.cs" />
+    <Compile Include="Migrations\20190220215436_init.designer.cs">
+      <DependentUpon>20190220215436_init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\SamuraiContextModelSnapshot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
