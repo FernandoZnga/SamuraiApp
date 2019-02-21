@@ -204,7 +204,7 @@ namespace SomeUI
         {
             var procResult = new SqlParameter
             {
-                PrameterName = "@procResult",
+                ParameterName = "@procResult",
                 SqlDbType = SqlDbType.VarChar,
                 Direction = ParameterDirection.Output,
                 Size = 50
