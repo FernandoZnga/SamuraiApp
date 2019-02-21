@@ -141,6 +141,10 @@
     <Compile Include="Migrations\20190221015223_SecretIdentity.designer.cs">
       <DependentUpon>20190221015223_SecretIdentity.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20190221055112_AddStoreProc.cs" />
+    <Compile Include="Migrations\20190221055112_AddStoreProc.designer.cs">
+      <DependentUpon>20190221055112_AddStoreProc.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\SamuraiContextModelSnapshot.cs" />
     <Compile Include="MyLoggerProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
